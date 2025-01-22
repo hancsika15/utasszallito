@@ -7,8 +7,6 @@ namespace MachKalkulatorGUI
             InitializeComponent();
         }
 
-
-        //ljb.kjgbkéjgbk.édtztzjmuh
         private void button1_Click(object sender, EventArgs e)
         {
             string torlonyomas = textBox1.Text;

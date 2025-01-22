@@ -15,7 +15,7 @@ class Program
         {
             tipusok++;
         }
-        Console.WriteLine("4.feladat: Adatsorok száma " + (tipusok - 1));
+        Console.WriteLine("4.feladat: Adatsorok ázáma " + (tipusok - 1));
 
         //5.feladat
         int boeing = 0;
